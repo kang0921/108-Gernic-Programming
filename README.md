@@ -1,1 +1,1 @@
-# 2020-Gernic-Programming
+# 2020 Gernic Programming
